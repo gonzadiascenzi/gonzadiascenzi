@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gonzadiascenzi
-- 👀 I’m interested in informatic and all types of content related with it, like programming, cibersecurty and data science.
-- 🌱 I’m currently learning android development in kotling language and some libraries
+- 👀 I’m interested in informatic and all types of content related with it, like programming, cibersecurity and data science.
+- 🌱 I’m currently learning android development in kotling language and some diferents types of libraries to use there.
 - 💞️ I’m looking to collaborate on development of utils applications, or any proyect that provides me knowdledge about informatic.
 - 📫 I promise to myself reach these goals with passion and perseverance.
 <!---
